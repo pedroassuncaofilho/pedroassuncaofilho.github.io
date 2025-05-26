@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "pt-BR"
 site_theme               : "default"
-title                    : "Pedro Bonfim A. Filho / Site Title"
+title                    : "Pedro Bonfim A. Filho "
 title_separator          : "-"
 name                     : &name "Pedro Bonfim A. Filho"
 description              : &description "Professor de Matemática"
@@ -25,9 +25,9 @@ author:
   avatar           : "your-photo.png"
   name             : "Pedro Bonfim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "professor at the federal institute of education, science and technology of goiás"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "IFG"
   uri              : # URL
   email            : "pedro.filho@ifg.edu.br" 
 
