@@ -1,5 +1,5 @@
 ---
-"Professor of Mathematics Optimization Researcher
+"Professor of Mathematics and Optimization Researcher
  Federal Institute of Goiás (IFG), Brazil"
 
 ---
