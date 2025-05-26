@@ -1,8 +1,18 @@
 ---
-"Professor of Mathematics and Optimization Researcher
- in Federal Institute of Goiás (IFG), Brazil"
-
+permalink: /
+title: "Pedro Bonfim de Assunção Filho"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
+### Office address
+
+Professor of Mathematics
+Federal Institute of Goiás, 2016–Present ([IFG](https://www.ifg.edu.br/formosa))  
+Rodovia BR 101, Km 60, zip code 29932-540, São Mateus, ES, Brazil
 
 Academic Appointments
 
