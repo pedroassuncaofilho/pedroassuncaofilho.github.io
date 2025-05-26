@@ -12,7 +12,7 @@ redirect_from:
 
 Professor of Mathematics
 Federal Institute of Goiás, 2016–Present ([IFG](https://www.ifg.edu.br/formosa))  
-Rodovia BR 101, Km 60, zip code 29932-540, São Mateus, ES, Brazil
+Rua 64, esq. c/ Rua 11, s/n, Expansão Parque Lago. CEP: 73813-816. Formosa – GO. Brazil
 
 Academic Appointments
 
