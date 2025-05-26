@@ -23,17 +23,17 @@ Researcher in Multobjective Optimization
 Research project title: Optimization in manifolds.
 Develop algorithms for non-convex optimization on manifolds and multiobjective algorithms
 Applications in [machine learning, computational geometry, game theory and telecommunications]
-
-###Email address: 
-======
+---
+Email address: 
+---
 pedrofilho@ifg.edu.br
 
 pedro.ufg.mat@gmail.com
 
 http://lattes.cnpq.br/2338264779032585 
-
-###Education
-=======
+---
+Education
+---
 Bachelor's Degree in Mathematics – UFG (2012).
 
 MSc in Mathematics – UFG (2015), “Optimization”
