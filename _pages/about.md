@@ -19,9 +19,9 @@ Rua 64, esq. c/ Rua 11, s/n, Expansão Parque Lago. CEP: 73813-816. Formosa – 
 - Lead mathematics education for Youth and Adult Education (EJA) programs
 
 Researcher in Multobjective Optimization
-Research project entitlement Optimization in manifolds, IFG
-Develop algorithms for non-convex optimization on manifolds and multiobjective algoritms
-Applications in [machine learning,computational geometry, game theory and telecommunications]
+Research project title: Optimization in manifolds.
+Develop algorithms for non-convex optimization on manifolds and multiobjective algorithms
+Applications in [machine learning, computational geometry, game theory and telecommunications]
 
 A data-driven personal website
 ======
