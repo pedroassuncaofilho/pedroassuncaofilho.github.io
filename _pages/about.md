@@ -24,7 +24,7 @@ Research project title: Optimization in manifolds.
 Develop algorithms for non-convex optimization on manifolds and multiobjective algorithms
 Applications in [machine learning, computational geometry, game theory and telecommunications]
 
-**Markdown generator**
+###Markdown generator
 ======
 pedrofilho@ifg.edu.br
 
@@ -32,7 +32,7 @@ pedro.ufg.mat@gmail.com
 
 CV Lattes (http://lattes.cnpq.br/2338264779032585)
 
-Education
+###Education
 ======
 Bachelor's Degree in Mathematics – UFG (2012).
 
@@ -43,11 +43,11 @@ PhD in Mathematics – Federal University of Goiás, UFG (2021), “Optimization
 Title: Conditional gradient methods for multiobjective optimization
 ------
 
-Create content & metadata
+###Create content & metadata
 ------
 contents of the _talks directory).
 
-**Markdown generator**
+###Markdown generator
 
 generate the markdown files, then commit and push them to the GitHub repository.
 
