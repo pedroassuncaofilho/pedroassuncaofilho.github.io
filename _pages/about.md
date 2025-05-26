@@ -24,10 +24,12 @@ Research project title: Optimization in manifolds.
 Develop algorithms for non-convex optimization on manifolds and multiobjective algorithms
 Applications in [machine learning, computational geometry, game theory and telecommunications]
 
-E-mail address
+**Markdown generator**
 ======
 pedrofilho@ifg.edu.br
+
 pedro.ufg.mat@gmail.com
+
 CV Lattes 
 
 Education
