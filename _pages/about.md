@@ -35,12 +35,12 @@ Email address:
 ---
 Education
 ---
--Bachelor's Degree in Mathematics – UFG (2012).
+- Bachelor's Degree in Mathematics – UFG (2012).
 
--MSc in Optimization Mathematics – UFG (2015), 
+- MSc in Optimization Mathematics – UFG (2015), 
 Title: A proximal algorithm with quasi-distance.
 
--PhD in Mathematics – Federal University of Goiás, UFG (2021), “Optimization”
+- PhD in Mathematics – Federal University of Goiás, UFG (2021), “Optimization”
 Title: Conditional gradient methods for multiobjective optimization.
 
 ------
