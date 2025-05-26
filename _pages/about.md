@@ -1,6 +1,6 @@
 ---
 "Professor of Mathematics and Optimization Researcher
- Federal Institute of Goiás (IFG), Brazil"
+ in Federal Institute of Goiás (IFG), Brazil"
 
 ---
 
