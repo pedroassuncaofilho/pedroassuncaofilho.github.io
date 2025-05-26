@@ -5,9 +5,10 @@
 ---
 
 Academic Appointments
+
 Professor of Mathematics
 Federal Institute of Goiás, 2016–Present
-- Teach undergraduate courses for Civil Engineering, Information Systems, and Biology
+- Teach undergraduate courses for Civil Engineering, Information Systems and Biology
 - Lead mathematics education for Youth and Adult Education (EJA) programs
 
 Researcher in Multobjective Optimization
