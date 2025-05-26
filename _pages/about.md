@@ -15,8 +15,8 @@ Federal Institute of Goiás, 2016 – Present ([IFG](https://www.ifg.edu.br/form
 Rua 64, esq. c/ Rua 11, s/n, Expansão Parque Lago. CEP: 73813-816. Formosa – GO. Brazil
 
 
-- Teach undergraduate courses for Civil Engineering, Information Systems and Biology
-- Lead mathematics education for Youth and Adult Education (EJA) programs
+- Teach undergraduate courses for Civil Engineering,  Systems Analysis and Development and Bachelor's Degree in Biological Sciences
+- Teaches mathematics for high school and adult education (EJA) programs
 
 Researcher in Multobjective Optimization
 Research project title: Optimization in manifolds.
