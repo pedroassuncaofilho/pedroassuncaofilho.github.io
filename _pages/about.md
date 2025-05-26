@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Professor of Mathematics | Optimization Researcher
+title: "Professor of Mathematics Optimization Researcher
  Federal Institute of Goiás (IFG), Brazil"
 author_profile: true
 redirect_from: 
