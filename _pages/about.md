@@ -19,6 +19,7 @@ Rua 64, esq. c/ Rua 11, s/n, Expansão Parque Lago. CEP: 73813-816. Formosa – 
 - Teaches mathematics for high school and adult education (EJA) programs
 
 Researcher in Multobjective Optimization
+
 Research project title: Optimization in manifolds.
 Develop algorithms for non-convex optimization on manifolds and multiobjective algorithms
 Applications in [machine learning, computational geometry, game theory and telecommunications]
