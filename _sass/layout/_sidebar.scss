@@ -93,10 +93,12 @@
     height: auto;
   }
 
+  .author__avatar {
   img {
-    max-width: 175px;
-    border-radius: 50%;
-
+    max-width: 200px;              // Aumentei um pouco o tamanho
+    border-radius: 0;             // Remove o arredondamento
+    object-fit: cover;            // Mantém proporção sem distorcer
+    border: 2px solid #f0f0f0;    // Borda opcional (cor cinza claro)
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid var(--global-border-color);
