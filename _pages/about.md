@@ -24,7 +24,6 @@ Research project (title: "Optimization in manifolds"). Develop algorithms for no
 Applications in [machine learning, computational geometry, game theory and telecommunications]
 
 
-
 ---
 Email address: 
 ---
@@ -36,7 +35,6 @@ Email address:
 ---
 Education
 ---
-
 -Bachelor's Degree in Mathematics – UFG (2012).
 
 -MSc in Optimization Mathematics – UFG (2015), 
