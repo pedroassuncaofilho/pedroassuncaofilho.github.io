@@ -11,4 +11,4 @@ paperurl: 'http://pedroassuncaofilho.github.io/files/Artigo1.pdf'
 bibtexurl: 'http://pedroassuncaofilho.github.io/files/bibtex1.bib'
 citation: 'Assunção, P.B. (2021). &quot; Conditional gradient method for multiobjective optimization.&quot; <i> Comput Optim Appl 78 </i>. 741–768 (2021).'
 ---
-We analyze the conditional gradient method, also known as the Frank-Wolfe method, for constrained multiobjective optimization. The constraint set is assumed to be convex and compact, and the objective functions are assumed to be continuously differentiable. The method is considered in conjunction with various strategies for determining the step sizes. Asymptotic convergence properties and iteration-complexity bounds with and without convexity assumptions on the objective functions are established. Numerical experiments are provided to illustrate the effectiveness of the method and certify the obtained theoretical results.
+Numerical experiments are provided to illustrate the effectiveness of the method and certify the obtained theoretical results.
