@@ -35,7 +35,7 @@ Email address:
 ---
 Education
 ---
-- Bachelor's Degree in Mathematics – UFG (2012).
+- Bachelor's Degree in Mathematics –([UFG-IME](https://ime.ufg.br/)) (2012).
 
 - MSc in Optimization Mathematics – UFG (2015), 
 Title: A proximal algorithm with quasi-distance.
