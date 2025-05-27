@@ -2,13 +2,13 @@
 title: "Conditional gradient method for multiobjective optimization"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020-10-01
-venue: 'Optimization Online'
+permalink: /publication/2021-25-01-paper-title-number-1
+excerpt: 'The conditional gradient method, also known as Frank-Wolfe method, for constrained multiobjective optimization.'
+date: 2021-25-01
+venue: 'Computational Optimization and Applications'
 slidesurl: 'http://pedroassuncaofilho.io/files/slides1.pdf'
 paperurl: 'http://pedroassuncaofilho.github.io/files/Artigo1.pdf'
 bibtexurl: 'http://pedroassuncaofilho.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Assunção, P.B.,Ferreira, O.P, Prudente, L.F. (2021). &quot; Conditional gradient method for multiobjective optimization.&quot; <i>Comput Optim Appl 78</i>. 741–768 (2021).'
 ---
-The contents above will be part of a list of publications. If the user clicks the link for the publication, then the contents of the section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We analyze the conditional gradient method, also known as Frank-Wolfe method, for constrained multiobjective optimization. The constraint set is assumed to be convex and compact, and the objectives functions are assumed to be continuously differentiable. The method is considered with different strategies for obtaining the step sizes. Asymptotic convergence properties and iteration-complexity bounds with and without convexity assumptions on the objective functions are stablished. Numerical experiments are provided to illustrate the effectiveness of the method and certify the obtained theoretical results.
