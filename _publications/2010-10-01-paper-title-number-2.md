@@ -3,12 +3,12 @@ title: "A generalized conditional gradient method for multiobjective composite o
 collection: publications
 category: manuscripts
 permalink: /publication/2023-08-04-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'we propose a generalized version of the conditional gradient method, also known as Frank-Wolfe method.'
 date: 2023-08-04
 venue: 'Optimization'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+slidesurl: 'http://pedroassuncaofilho.github.io/files/slides2.pdf'
+paperurl: 'http://pedroassuncaofilho.github.io/files/artigo2.pdf'
+citation: 'P. B. Assunção; O.P.Ferreira and L. F.Prudente(2023). &quot;A generalized conditional gradient method for multiobjective composite optimization problems.&quot; <i>JOptimization</i>. 1-31(2023).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This article deals with multiobjective composite optimization problems that consist of simultaneously minimizing several objective functions, each of which is composed of a combination of smooth and non-smooth functions. To tackle these problems, we propose a generalized version of the conditional gradient method, also known as Frank-Wolfe method. The method is analysed with three step size strategies, including Armijo-type, adaptive, and diminishing step sizes. We establish asymptotic convergence properties and iteration-complexity bounds, with and without convexity assumptions on the objective functions. Numerical experiments illustrating the practical behaviour of the methods are presented.
