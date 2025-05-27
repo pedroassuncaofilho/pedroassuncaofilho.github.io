@@ -93,7 +93,6 @@
     height: auto;
   }
 
-  .author__avatar {
   img {
     max-width: 175px;
     border-radius: 50%; 
@@ -102,7 +101,7 @@
       border: 1px solid var(--global-border-color);
     }
   }
-}
+} // ← Esta chave fecha o .author__avatar corretamente
 
 .author__content {
   display: table-cell;
