@@ -32,7 +32,7 @@ Email address:
 
 - pedro.ufg.mat@gmail.com
 
--([Lattes](http://lattes.cnpq.br/2338264779032585)) 
+- ([Lattes](http://lattes.cnpq.br/2338264779032585)) 
 
 ---
 Education:
