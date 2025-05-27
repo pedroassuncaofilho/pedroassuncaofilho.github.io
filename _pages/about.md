@@ -32,8 +32,10 @@ Email address:
 
 - pedro.ufg.mat@gmail.com
 
+-([Lattes](http://lattes.cnpq.br/2338264779032585)) 
+
 ---
-Education
+Education:
 ---
 - Bachelor's Degree in Mathematics –([UFG-IME](https://ime.ufg.br/)) (2012).
 
