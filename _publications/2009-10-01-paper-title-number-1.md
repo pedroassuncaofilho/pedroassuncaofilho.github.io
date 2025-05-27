@@ -2,9 +2,9 @@
 title: "Conditional gradient method for multiobjective optimization"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-25-01-paper-title-number-1
+permalink: /publication/2021-01-25-paper-title-number-1
 excerpt: 'The conditional gradient method'
-date: 2021-25-01
+date: 2021-01-25
 venue: 'Computational Optimization and Applications'
 slidesurl: 'http://pedroassuncaofilho.io/files/slides1.pdf'
 paperurl: 'http://pedroassuncaofilho.github.io/files/Artigo1.pdf'
