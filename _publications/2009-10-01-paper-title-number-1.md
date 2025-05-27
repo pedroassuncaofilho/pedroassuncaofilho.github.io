@@ -1,5 +1,5 @@
 ---
-title: "Conditional gradient method for multiobjective optimization"
+title:"Conditional gradient method for multiobjective optimization"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-25-01-paper-title-number-1
