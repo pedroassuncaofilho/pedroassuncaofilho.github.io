@@ -7,7 +7,7 @@ venue: "Instituto Federal de Goiás, Department de áreas acadêmicas (DAA) "
 date: 2025-01-01
 location: "Formosa, Goiás"
 ---
-
+[link Moodle](https://moodle.ifg.edu.br/course/view.php?id=44014)
 Curso de Cálculo diferencial Integral.
 
  Números Reais
