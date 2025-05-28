@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "Geometria Analítica"
 collection: teaching
-type: "Workshop"
+type: "Curso para Engenharia Civil 2025/1"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Instituto Federal de Goiás, DAA"
 date: 2015-01-01
-location: "City, Country"
+location: "Formosa, Goiás"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Curso de Geometria Analítica.
 
-Heading 1
+Distância entre Pontos
 ======
 
-Heading 2
+Vetores e Projeções
 ======
 
-Heading 3
+Distância de Ponto a reta
 ======
