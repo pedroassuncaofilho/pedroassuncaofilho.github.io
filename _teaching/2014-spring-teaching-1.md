@@ -10,11 +10,11 @@ location: "Formosa, Goiás"
 
 Curso de Cálculo diferencial Integral.
 
-Heading 1
+ Números Reais
 ======
 
-Heading 2
+ Funções Reais
 ======
 
-Heading 3
+ Limites e Continuidade
 ======
