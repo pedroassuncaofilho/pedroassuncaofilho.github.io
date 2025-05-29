@@ -1,5 +1,5 @@
 ---
-title: "Geometria Analítica"
+title:"Geometria Analítica"
 collection: teaching
 type: "Curso para Engenharia Civil 2025/1"
 permalink: /teaching/2015-spring-teaching-1
