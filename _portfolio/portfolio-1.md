@@ -1,6 +1,6 @@
 ---
 title: "Aula de Cálculo numérico IFG- Formosa"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/WhatsApp Image 2025-06-07 at 12.42.20.png'>"
+excerpt: "Explicando método da bissecção C.N<br/><img src='/images/WhatsApp Image 2025-06-07 at 12.42.20.png'>"
 collection: portfolio
 ---
 
