@@ -28,7 +28,7 @@ Applications in [machine learning, computational geometry, game theory and telec
 Email address: 
 ---
 
-- pedrofilho@ifg.edu.br
+-professional: pedrofilho@ifg.edu.br
 
 - pedro.ufg.mat@gmail.com
 
