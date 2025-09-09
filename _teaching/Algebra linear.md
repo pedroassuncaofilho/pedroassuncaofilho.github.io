@@ -95,7 +95,7 @@ Harbra, 1980.
 - [Vetores no R³ (revisão de geometria analítica)]
 - [Independência / Dependência linear]
 - [Base, dimensão e revisão de sistemas lineares]
-- [Mudança de base] - **SOMENTE ATÉ 34:50**
+- [Mudança de base] 
 
 ### Conteúdo IMPA/Obmep (nível ensino médio)
 - [Matrizes e sistemas lineares]
