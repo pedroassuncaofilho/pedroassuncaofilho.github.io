@@ -11,16 +11,7 @@ location: "Formosa, Goiás"
 [Link Suap](https://suap.ifg.edu.br/)
 
 ---
-title: "Matemática 2"
-collection: teaching
-type: "2º Ano do Ensino Médio 2025/2"
-permalink: /teaching/2025-spring-teaching-5
-venue: "Instituto Federal de Goiás, DAA"
-date: 2025-01-01
-location: "Formosa, Goiás"
----
-[Link moodle](https://moodle.ifg.edu.br/)
-[Link Suap](https://suap.ifg.edu.br/)
+
 
 # Matemática 2 - 2º Ano Edificações
 
