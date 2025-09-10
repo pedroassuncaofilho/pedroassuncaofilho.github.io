@@ -11,8 +11,6 @@ location: "Formosa, Goiás"
 [Link Suap](https://suap.ifg.edu.br/)
 
 ---
-
-
 # Matemática II - 2º Ano Edificações
 
 ##  Horários das Aulas 
