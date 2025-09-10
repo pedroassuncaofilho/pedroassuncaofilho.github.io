@@ -13,7 +13,7 @@ location: "Formosa, Goiás"
 ---
 
 
-# Matemática 2 - 2º Ano Edificações
+# Matemática II - 2º Ano Edificações
 
 ##  Horários das Aulas 
 
