@@ -2,7 +2,7 @@
 title: "Matemática II"
 collection: teaching
 type: "Edificações 2025/2"
-permalink: /teaching/2025-spring-teaching-4
+permalink: /teaching/2025-spring-teaching-5
 venue: "Instituto Federal de Goiás, DAA"
 date: 2025-01-01
 location: "Formosa, Goiás"
