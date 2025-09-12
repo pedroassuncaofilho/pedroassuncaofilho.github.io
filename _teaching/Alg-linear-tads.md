@@ -15,7 +15,7 @@ location: "Formosa, Goiás"
 
 ---
 
-## 🗂️ Navegação Rápida
+##  Navegação Rápida
 
 <table>
 <tr>
@@ -54,7 +54,7 @@ location: "Formosa, Goiás"
 
 ---
 
-## 📅 Horários das Aulas
+## Horários das Aulas
 
 | Dia | Horário | Turma |
 |-----|---------|-------|
@@ -63,22 +63,22 @@ location: "Formosa, Goiás"
 
 ---
 
-## 📝 Ementa
+##  Ementa
 
 Matrizes; Sistemas de equações lineares; Determinante e matriz inversa; Espaço vetorial; Transformações lineares; Autovalores e Autovetores; Diagonalização de operadores; **Aplicações da Álgebra Linear**.
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 > Apresentar ao estudante os **fundamentos da Álgebra Linear** e suas **aplicações computacionais**, capacitando-o para resolver problemas relacionados ao desenvolvimento de sistemas e análise de dados.
 
 ---
 
-## 📚 Bibliografia
+##  Bibliografia
 
 <details>
-<summary><strong>📖 Bibliografia Básica (clique para expandir)</strong></summary>
+<summary><strong> Bibliografia Básica (clique para expandir)</strong></summary>
 
 - **BOLDRINI, J. L. et al.** *Álgebra linear.* Harper & Row, 1980.
 - **STEINBRUCH, A.; WINTERLE, P.** *Álgebra linear.* São Paulo: McGraw-Hill, 1987.
@@ -87,7 +87,7 @@ Matrizes; Sistemas de equações lineares; Determinante e matriz inversa; Espaç
 </details>
 
 <details>
-<summary><strong>📚 Bibliografia Complementar (clique para expandir)</strong></summary>
+<summary><strong> Bibliografia Complementar (clique para expandir)</strong></summary>
 
 - **ANTON, H.; RORRES, C.** *Álgebra linear com aplicações.* Bookman Porto Alegre, 2001.
 - **KOLMAN, B.; HILL, D. R.** *Introdução à Álgebra Linear com Aplicações.* 8. ed. Rio de Janeiro: LTC, 2006.
@@ -100,45 +100,45 @@ Matrizes; Sistemas de equações lineares; Determinante e matriz inversa; Espaç
 
 ---
 
-## 🎥 Vídeo-aulas
+##  Vídeo-aulas
 
-### 🏛️ UNIVESP
+###  UNIVESP
 <details>
 <summary><strong>Clique para ver os vídeos da UNIVESP</strong></summary>
 
-- [📹 Aula sobre matrizes - Parte 1](#)
-- [📹 Aula sobre matrizes - Parte 2](#)
-- [📹 Sistemas lineares](#)
+- [ Aula sobre matrizes - Parte 1](#)
+- [ Aula sobre matrizes - Parte 2](#)
+- [ Sistemas lineares](#)
 
 </details>
 
-### 🎓 Prof. Possani (USP)
+###  Prof. Possani (USP)
 <details>
 <summary><strong>Clique para ver os vídeos do Prof. Possani</strong></summary>
 
-- [📐 Vetores no R³ (revisão de geometria analítica)](#)
-- [🔗 Independência / Dependência linear](#)
-- [📊 Base, dimensão e revisão de sistemas lineares](#)
-- [🔄 Mudança de base](#)
+- [ Vetores no R³ (revisão de geometria analítica)](#)
+- [ Independência / Dependência linear](#)
+- [📊Base, dimensão e revisão de sistemas lineares](#)
+- [Mudança de base](#)
 
 </details>
 
-### 🏆 IMPA/OBMEP
+###  IMPA/OBMEP
 <details>
 <summary><strong>Clique para ver os vídeos IMPA/OBMEP</strong></summary>
 
-- [📊 Matrizes e sistemas lineares](#)
-- [🎯 A geometria das transformações lineares](#)
-- [⚙️ Operando com transformações lineares](#)
+- [ Matrizes e sistemas lineares](#)
+- [ A geometria das transformações lineares](#)
+- [⚙ Operando com transformações lineares](#)
 
 </details>
 
 ---
 
-## 💻 Aplicações Computacionais
+##  Aplicações Computacionais
 
 <details>
-<summary><strong>🤖 Machine Learning & AI</strong></summary>
+<summary><strong> Machine Learning & AI</strong></summary>
 
 - Algoritmos de aprendizado supervisionado
 - Redes neurais e deep learning
@@ -148,7 +148,7 @@ Matrizes; Sistemas de equações lineares; Determinante e matriz inversa; Espaç
 </details>
 
 <details>
-<summary><strong>🎮 Computação Gráfica</strong></summary>
+<summary><strong>Computação Gráfica</strong></summary>
 
 - Transformações 3D e rotações
 - Animações e interpolação
@@ -158,7 +158,7 @@ Matrizes; Sistemas de equações lineares; Determinante e matriz inversa; Espaç
 </details>
 
 <details>
-<summary><strong>📊 Análise de Dados</strong></summary>
+<summary><strong> Análise de Dados</strong></summary>
 
 - Principal Component Analysis (PCA)
 - Singular Value Decomposition (SVD)
@@ -168,7 +168,7 @@ Matrizes; Sistemas de equações lineares; Determinante e matriz inversa; Espaç
 </details>
 
 <details>
-<summary><strong>🔐 Criptografia</strong></summary>
+<summary><strong>Criptografia</strong></summary>
 
 - Algoritmos de encriptação RSA
 - Sistemas de chaves públicas
