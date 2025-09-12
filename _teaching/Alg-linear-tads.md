@@ -15,45 +15,6 @@ location: "Formosa, Goiás"
 
 ---
 
-##  Navegação Rápida
-
-<table>
-<tr>
-<td align="center">
-<a href="#-horários-das-aulas">
-<img src="https://img.icons8.com/color/48/calendar.png" width="32"><br>
-<strong>Horários</strong>
-</a>
-</td>
-<td align="center">
-<a href="#-ementa">
-<img src="https://img.icons8.com/color/48/documents.png" width="32"><br>
-<strong>Ementa</strong>
-</a>
-</td>
-<td align="center">
-<a href="#-bibliografia">
-<img src="https://img.icons8.com/color/48/book-stack.png" width="32"><br>
-<strong>Bibliografia</strong>
-</a>
-</td>
-<td align="center">
-<a href="#-vídeo-aulas">
-<img src="https://img.icons8.com/color/48/video.png" width="32"><br>
-<strong>Vídeos</strong>
-</a>
-</td>
-<td align="center">
-<a href="#-contato">
-<img src="https://img.icons8.com/color/48/contact-card.png" width="32"><br>
-<strong>Contato</strong>
-</a>
-</td>
-</tr>
-</table>
-
----
-
 ## Horários das Aulas
 
 | Dia | Horário | Turma |
@@ -189,38 +150,6 @@ Matrizes; Sistemas de equações lineares; Determinante e matriz inversa; Espaç
 | **Local** | Sala dos Professores - IFG Formosa |
 | **⚠️ Importante** | Atendimento com horários previamente marcados |
 
----
-
-## 🔗 Links Úteis
-
-<table>
-<tr>
-<td align="center">
-<a href="https://moodle.ifg.edu.br/" target="_blank">
-<img src="https://img.icons8.com/color/48/moodle.png" width="32"><br>
-<strong>Moodle IFG</strong>
-</a>
-</td>
-<td align="center">
-<a href="https://suap.ifg.edu.br/" target="_blank">
-<img src="https://img.icons8.com/color/48/dashboard.png" width="32"><br>
-<strong>SUAP IFG</strong>
-</a>
-</td>
-<td align="center">
-<a href="#" target="_blank">
-<img src="https://img.icons8.com/color/48/pdf.png" width="32"><br>
-<strong>Material PDF</strong>
-</a>
-</td>
-<td align="center">
-<a href="#" target="_blank">
-<img src="https://img.icons8.com/color/48/test.png" width="32"><br>
-<strong>Exercícios</strong>
-</a>
-</td>
-</tr>
-</table>
 
 ---
 
