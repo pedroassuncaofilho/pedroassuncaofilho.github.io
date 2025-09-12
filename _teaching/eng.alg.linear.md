@@ -1,3 +1,12 @@
+---
+title: "Álgebra Linear Para Engenharia"
+collection: teaching
+type: " Eng. 2025/2"
+permalink: /teaching/2025-teaching-56
+venue: "IFG, departamento de areas academicas-DAA"
+date: 2025-02-02
+location: "Formosa, GO."
+---
 # Ementa de Disciplina
 
 ## Informações Gerais
