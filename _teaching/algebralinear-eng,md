@@ -1,1 +1,150 @@
+---
+title: "Álgebra Linear Para Engenharia"
+collection: teaching
+type: " Eng. 2025/2"
+permalink: /teaching/2025-teaching-56
+venue: "IFG, departamento de areas academicas- formosa/GO"
+date: 2025-02-02
+location: "Formosa, Goiás"
+---
+[Link moodle](https://moodle.ifg.edu.br/course/view.php?id=44011)
+
+# Álgebra Linear - Eng. 2025/2
+
+---
+
+## Horários das Aulas
+
+| Dia | Horário | Turma |
+|-----|---------|-------|
+| **Sexta-feira** | 19:00 às 20:30 | Eng - 1º Horário |
+| **Sexta-feira** | 20:45:00 às 22:00 | Eng. - 2º Horário |
+
+---
+
+##  Ementa
+
+Matrizes; Sistemas de equações lineares; Determinante e matriz inversa; Espaço vetorial;
+Transformações lineares; Autovalores e Autovetores; Diagonalização de operadores; Produto interno.
+
+---
+
+##  Objetivos
+Capacitar o aluno a utilizar ferramentas de Álgebra Linear para a resolução de problemas relacionados
+a Construção Civil.
+
+---
+
+##  Bibliografia
+
+<details>
+<summary><strong> Bibliografia Básica (clique para expandir)</strong></summary>
+
+- **BOLDRINI, J. L.; COSTA, S. I. R.; FIGUEIREDO, V. L.; WETZLER, H.G.** *Álgebra Linear.* São Paulo:
+Harbra, 1980.
+- **KOLMAN, B. HILL. D. R.** * Introdução à álgebra linear com aplicações.*  Rio de Janeiro: LTC, 2006.
+- **STEINBRUCH, Alfredo; WINTERLE, Paulo.** *Álgebra Linear.* 2. ed. São Paulo: Pearson Education do Brasil, 2014.
+</details>
+
+<details>
+<summary><strong> Bibliografia Complementar (clique para expandir)</strong></summary>
+
+- **BOLDRINI, J.L; COSTA, R.I.S; FIGUEIREDO, L.V; WETZLER, G.H.** *Álgebra Linear.* 3. ed. São Paulo: Harbra, 1986.
+- **CALLIOLI, C.A; COSTA, R.F.; DOMINGUES, H.** *Álgebra linear e aplicações.* São Paulo: Saraiva, 2005.
+- **LIMA, Elon Lages.** *Álgebra Linear.* Rio de Janeiro: IMPA. Coleção Matemática Universitária, 9. ed. 2016.
+- **HOFFMAN, Kennet; KUNZE, Ray.** *Álgebra Linear.* São Paulo: Polígono, 1971.
+- **POOLE, David.** *Álgebra Linear.* São Paulo: Pioneira Thomson Learning, 2004.
+
+</details>
+
+---
+
+##  Vídeo-aulas
+
+###  UNIVESP
+<details>
+<summary><strong>Clique para ver os vídeos da UNIVESP</strong></summary>
+
+- [ Aula sobre matrizes - Parte 1](#)
+- [ Aula sobre matrizes - Parte 2](#)
+- [ Sistemas lineares](#)
+
+</details>
+
+###  Prof. Possani (USP)
+<details>
+<summary><strong>Clique para ver os vídeos do Prof. Possani</strong></summary>
+
+- [ Vetores no R³ (revisão de geometria analítica)](#)
+- [ Independência / Dependência linear](#)
+- [📊Base, dimensão e revisão de sistemas lineares](#)
+- [Mudança de base](#)
+
+</details>
+
+###  IMPA/OBMEP
+<details>
+<summary><strong>Clique para ver os vídeos IMPA/OBMEP</strong></summary>
+
+- [ Matrizes e sistemas lineares](#)
+- [ A geometria das transformações lineares](#)
+- [⚙ Operando com transformações lineares](#)
+
+</details>
+
+---
+
+##  Aplicações Computacionais
+
+<details>
+<summary><strong> Machine Learning & AI</strong></summary>
+
+- Algoritmos de aprendizado supervisionado
+- Redes neurais e deep learning
+- Processamento de linguagem natural
+- Análise de sentimentos
+
+</details>
+
+<details>
+<summary><strong>Computação Gráfica</strong></summary>
+
+- Transformações 3D e rotações
+- Animações e interpolação
+- Renderização e iluminação
+- Modelagem de superfícies
+
+</details>
+
+<details>
+<summary><strong> Análise de Dados</strong></summary>
+
+- Principal Component Analysis (PCA)
+- Singular Value Decomposition (SVD)
+- Regressão linear múltipla
+- Clustering e classificação
+
+</details>
+
+<details>
+<summary><strong>Criptografia</strong></summary>
+
+- Algoritmos de encriptação RSA
+- Sistemas de chaves públicas
+- Hash functions
+- Assinaturas digitais
+
+</details>
+
+---
+
+## 📞 Contato
+
+| Informação | Detalhes |
+|------------|----------|
+| **Professor** | Pedro Filho |
+| **E-mail** | pedro.filho@ifg.edu.br |
+| **Atendimento** | Quartas-feiras, 16h às 18h |
+| **Local** | Sala dos Professores - IFG Formosa |
+| **⚠️ Importante** | Atendimento com horários previamente marcados |
 
