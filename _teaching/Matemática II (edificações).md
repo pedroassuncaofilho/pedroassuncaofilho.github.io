@@ -54,6 +54,12 @@ Desenvolver o raciocínio matemático do estudante através do estudo de funçõ
 - **Monitoria:** Quartas-feiras, 13:00 às 14:00 (Laboratório de Matemática)
 - **Plantão de dúvidas:** Sextas-feiras, 15:50 às 16:40
 
+
+
+## Videos
+- [Link P.A](https://www.youtube.com/watch?v=poyvpdAC4xI)
+
+
 ##  Avaliações
 
 ### 1ª Prova Bimestral
