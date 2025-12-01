@@ -20,7 +20,7 @@ Rua 64, esq. c/ Rua 11, s/n, Expansão Parque Lago. CEP: 73813-816. Formosa – 
 
 Researcher in Multobjective Optimization
 
-Research project (title: "Optimization in manifolds"). Develop algorithms for non-convex optimization on manifolds and multiobjective algorithms
+Research project (title: "Optimization in Manifolds"). Develop algorithms for non-convex optimization on manifolds and multiobjective algorithms
 Applications in [machine learning, computational geometry, game theory and telecommunications]
 
 
@@ -37,13 +37,13 @@ Email address:
 ---
 Education:
 ---
-- Bachelor's Degree in Mathematics –([UFG-IME](https://ime.ufg.br/)) (2012).
+- Bachelor's Degree in Mathematics – ([UFG-IME](https://ime.ufg.br/)) (2012).
 
 - MSc in Optimization Mathematics – UFG (2015), 
 Title: A proximal algorithm with quasi-distance.
 
 - PhD in Mathematics – Federal University of Goiás, UFG (2021), “Optimization”
-Title: Conditional gradient methods for multiobjective optimization.
+Title: Conditional Gradient Methods for Multiobjective Optimization.
 
 ------
 
