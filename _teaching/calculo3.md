@@ -1,5 +1,5 @@
 ---
-title: "Cáculo 3"
+title: "Cálculo 3"
 collection: teaching
 type: " Eng. classe2025/2"
 permalink: /teaching/2025-teachi-74
