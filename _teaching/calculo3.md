@@ -118,7 +118,7 @@ As referências acima abordam os principais tópicos de Cálculo III:
 <details>
 <summary><strong>Clique para ver os vídeos do Prof. Possani</strong></summary>
 
-- [[  ](https://youtu.be/kBN593NWzwg?list=PLAudUnJeNg4ugGUJo52dtgFZ_tCm1Ds5W)(Integrais triplas)](#)
+- [[  ](https://youtu.be/kBN593NWzwg?list=PLAudUnJeNg4ugGUJo52dtgFZ_tCm1Ds5W)](#)
 - [ Independência / Dependência linear](#)
 - [📊Base, dimensão e revisão de sistemas lineares](#)
 - [Mudança de base](#)
