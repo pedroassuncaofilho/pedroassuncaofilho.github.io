@@ -103,37 +103,10 @@ As referências acima abordam os principais tópicos de Cálculo III:
 ---
 
 ##  Vídeo-aulas
-
-###  UNIVESP
+[📹 Vídeo-aula: Integrais Múltiplas (Aula 18)](https://www.youtube.com/watch?v=kBN593NWzwg&list=PLAudUnJeNg4ugGUJo52dtgFZ_tCm1Ds5W&index=18)###  UNIVESP
 <details>
 <summary><strong>Clique para ver os vídeos da UNIVESP</strong></summary>
 
-- [ Aula sobre matrizes - Parte 1](#)
-- [ Aula sobre matrizes - Parte 2](#)
-- [ Sistemas lineares](#)
-
-</details>
-
-###  Prof. Possani (USP)
-<details>
-<summary><strong>Clique para ver os vídeos do Prof. Possani</strong></summary>
-
-- [https://youtu.be/kBN593NWzwg?list=PLAudUnJeNg4ugGUJo52dtgFZ_tCm1Ds5W](#)
-- [ Independência / Dependência linear](#)
-- [📊Base, dimensão e revisão de sistemas lineares](#)
-- [Mudança de base](#)
-
-</details>
-
-###  IMPA/OBMEP
-<details>
-<summary><strong>Clique para ver os vídeos IMPA/OBMEP</strong></summary>
-
-- [ Matrizes e sistemas lineares](#)
-- [ A geometria das transformações lineares](#)
-- [⚙ Operando com transformações lineares](#)
-
-</details>
 
 ---
 
