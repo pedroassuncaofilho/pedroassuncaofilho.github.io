@@ -61,7 +61,7 @@ Para adicionar novos vídeos, use o formato:
 -->
 ### Exercícios
 
-- ✏️ [Lista 1 - Autovalores e Autovetores](./lista_exercicios_algebra.pdf)  
+- ✏️ [Lista 1 - Autovalores e Autovetores](files/lista_exercicios_algebra.pdf)  
   _10 exercícios com diferentes níveis de dificuldade_
 
 
