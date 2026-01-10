@@ -52,13 +52,18 @@ Capacitar o aluno a utilizar ferramentas de Álgebra Linear para a resolução d
 <!-- Adicione aqui as URLs das videoaulas do YouTube -->
 
 **Exemplo de formato:**
-- [Título da Aula - Canal/Professor](URL_DO_VIDEO)
+- [Auto-vetor - Impa/Prof.Jorge Passamani Zubelli](https://www.youtube.com/watch?v=MxZYbmKRsGc&list=PLo4jXE-LdDTSE0DFoq4es_iMvjlCeG8pP&index=10)
 - [Título da Aula - Canal/Professor](URL_DO_VIDEO)
 
 <!-- 
 Para adicionar novos vídeos, use o formato:
 - [Nome descritivo da aula - Nome do canal](URL_completa_do_YouTube)
 -->
+### Exercícios
+
+- ✏️ [Lista 1 - Autovalores e Autovetores](./lista_exercicios_algebra.pdf)  
+  _10 exercícios com diferentes níveis de dificuldade_
+
 
 ## Bibliografia
 
