@@ -109,6 +109,10 @@ As referências acima abordam os principais tópicos de Cálculo III:
 
 
 ---
+### Exercícios
+
+- ✏️ [Lista 1 - Autovalores e Autovetores](http://pedroassuncaofilho.github.io/files/avaliação_de_edo-1.pdf)  
+  _10 exercícios com diferentes níveis de dificuldade_
 
 
 
