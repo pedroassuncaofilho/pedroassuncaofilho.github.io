@@ -56,6 +56,11 @@ Capacitar o aluno a utilizar ferramentas de Álgebra Linear para a resolução d
 ### Videoaulas Recomendadas
 
 <!-- Adicione aqui as URLs das videoaulas do YouTube -->
+**Slides:**
+- [Slide 1 ](https://www.dropbox.com/scl/fi/f1gpy8n4ugkpype66cj5b/Aula9-1-1.pdf?rlkey=18358s7iozy7vdq0zjq14vt1r&st=139zjxh7&dl=0)
+- [Título da Aula - Canal/Professor](URL_DO_VIDEO)
+
+
 
 **Exemplo de formato:**
 - [Número Pi - UFPR/Prof.Abel](https://www.youtube.com/watch?v=6_DaJ7_qpwE&list=PLOOY0eChA1uyO7qjoupZ3979741csLLTE&index=5)
