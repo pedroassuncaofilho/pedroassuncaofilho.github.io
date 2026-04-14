@@ -68,7 +68,7 @@ Para adicionar novos vídeos, use o formato:
 ### Exercícios
 
 - ✏️ [Livro - Colaborativo](https://www.dropbox.com/scl/fi/b9fj2ka6x3t9ln2rmik6x/main.pdf?rlkey=tmfbhppyo55d7llpobh2hm40v&st=dmm3gr30&dl=0)  
-  - ✏️ [Lista 1 - ](https://www.dropbox.com/scl/fi/enppf4g55emnlvnjl6zud/Modelo_lista_de_exercic_os-1.pdf?rlkey=eg4q06cicagt5k4s0iqydcwld&st=jux4mlw3&dl=0)  
+  -  [Lista 1  ](https://www.dropbox.com/scl/fi/enppf4g55emnlvnjl6zud/Modelo_lista_de_exercic_os-1.pdf?rlkey=eg4q06cicagt5k4s0iqydcwld&st=jux4mlw3&dl=0)  
 ## Bibliografia
  
 ### Bibliografia Básica
