@@ -63,7 +63,7 @@ Capacitar o aluno a utilizar ferramentas de Álgebra Linear para a resolução d
 
 
 **Videos:**
-- [Número Pi - UFPR/Prof.Abel](https://www.youtube.com/watch?v=6_DaJ7_qpwE&list=PLOOY0eChA1uyO7qjoupZ3979741csLLTE&index=5)
+- [Sitema de Numeração - UFPR/Prof.João godoi](https://www.youtube.com/watch?v=3jTueAA6Fhw&list=PLsfUsqON-YybXUTyvm_xy8J8VpHRvpG_z)
 - [Título da Aula - Canal/Professor](URL_DO_VIDEO)
 
 <!-- 
