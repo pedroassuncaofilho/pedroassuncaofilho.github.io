@@ -67,9 +67,8 @@ Para adicionar novos vídeos, use o formato:
 -->
 ### Exercícios
 
-- ✏️ [Lista 1 - Sistemas Lineares](http://pedroassuncaofilho.github.io/files/lista_exercicios_algebra.pdf)  
+- ✏️ [Livro - Colaborativo](https://www.dropbox.com/scl/fi/b9fj2ka6x3t9ln2rmik6x/main.pdf?rlkey=tmfbhppyo55d7llpobh2hm40v&st=dmm3gr30&dl=0)  
   _10 exercícios com diferentes níveis de dificuldade_
-
 
 ## Bibliografia
  
