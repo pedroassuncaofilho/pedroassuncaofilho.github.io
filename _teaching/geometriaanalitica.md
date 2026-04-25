@@ -1,4 +1,4 @@
----
+--
 # Ementa de Disciplina
 ## Informações Gerais
 | Campo | Descrição |
