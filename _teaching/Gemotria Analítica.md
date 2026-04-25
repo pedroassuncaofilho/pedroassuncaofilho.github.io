@@ -1,14 +1,4 @@
----
-title: "Geometria Analítica"
-collection: teaching
-type: "Curso para Engenharia 2026/1"
-permalink: /teaching/2026-spring-teaching-3
-venue: "Instituto Federal de Goiás, DAA"
-date: 2026-01-01
-location: "Formosa, Goiás"
----
-[Link moodle](https://moodle.ifg.edu.br/)
-[Link Suap](https://suap.ifg.edu.br/)
+
 # Ementa de Disciplina
 ## Informações Gerais
 | Campo | Descrição |
