@@ -1,0 +1,16 @@
+title: "A Partially Derivative-Free Proximal Method for                        
+Composite Multiobjective Optimization in the Hölder Setting"
+collection: talks
+type: "Talk"
+permalink: /talks/2026-05-20-talk-6
+venue: " Universidade Federal do Piauí"
+date: 2023-07-24
+location: "Teresina, PI, BR"
+---
+[More information here](https://www.vijovens.com.br/sess%C3%B5es)
+
+This paper presents an algorithm for solving multiobjective optimization problems involving composite functions,
+where we minimize a quadratic model that approximates $F(x) - F(x^k)$ and that can be derivative-free. We establish theoretical assumptions about 
+the component functions of the composition and provide comprehensive convergence and complexity analysis. Specifically, we prove that the proposed method converges 
+to a weakly $\varepsilon$-approximate Pareto point in at most $\mathcal{O}\left(\varepsilon^{-\frac{\beta+1}{\beta}}\right)$ iterations, where $\beta$ denotes the H\"{o}lder exponent
+of the gradient. The algorithm incorporates gradient approximations and a scaling matrix $B_k$ to achieve an optimal balance between computational accuracy and efficiency.
