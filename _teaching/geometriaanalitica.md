@@ -10,7 +10,7 @@ location: "Formosa, Goiás"
 [Link moodle](https://moodle.ifg.edu.br/)
 [Link Suap](https://suap.ifg.edu.br/)
 ----
-# Ementa de Disciplina
+## Ementa de Disciplina
 ## Informações Gerais
 | Campo | Descrição |
 |-------|-----------|
