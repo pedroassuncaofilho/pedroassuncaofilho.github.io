@@ -8,4 +8,79 @@ date: 2026-01-01
 location: "Formosa, Goiás"
 ---
 
+[Link moodle](https://moodle.ifg.edu.br/)
+[Link Suap](https://suap.ifg.edu.br/)
 
+# Ementa de Disciplina
+
+## Informações Gerais
+
+| Campo | Descrição |
+|-------|-----------|
+| **Disciplina** | Geometria Analítica |
+| **Formação** | Básica |
+| **Série/Período** | 1° |
+| **Carga Horária** | 54h |
+| **Pré-requisito** | não possui |
+| **Regime** | Obrigatória |
+
+## Ementa
+
+Geometria Analítica Plana: Coordenadas no plano, distância entre pontos, distância entre ponto e reta, distância entre retas, vetores no plano, produto interno entre vetores, projeção ortogonal, equações da reta, retas paralelas, retas perpendiculares. Cônicas. Geometria Analítica no Espaço: coordenadas no espaço, distância entre dois pontos, vetores no espaço, produto interno, produto vetorial, equações paramétricas da reta, equações do plano. Quádricas.
+
+## Objetivo
+
+Estabelecer os conceitos de Geometria Analítica a fim de levar o aluno a se familiarizar com a linguagem matemática e com os métodos de construção do conhecimento matemático, bem como capacitar o aluno para a resolução de problemas relacionados à área específica de formação.
+
+## Critérios de Avaliação
+
+### Instrumentos Avaliativos
+
+| Instrumento | Quantidade | Pontuação | Peso |
+|-------------|------------|-----------|------|
+| **Avaliações** | 2 | 10,0 pontos cada | 100% |
+| **Listas de Exercícios** | Contínuas | Complementar | - |
+
+### Cálculo da Média Final
+
+**Média Final = (Avaliação 1 + Avaliação 2) ÷ 2**
+
+- **Aprovação**: Média Final ≥ 6,0
+- **Recuperação**: 4,0 ≤ Média Final < 6,0
+- **Reprovação**: Média Final < 4,0
+
+## Recursos Complementares
+
+### Videoaulas Recomendadas
+
+<!-- Adicione aqui as URLs das videoaulas do YouTube -->
+
+**Slides:**
+- [Título do Slide - Aula](URL_DO_SLIDE)
+
+**Vídeos:**
+- [Título da Aula - Canal/Professor](URL_DO_VIDEO)
+
+<!-- 
+Para adicionar novos vídeos, use o formato:
+- [Nome descritivo da aula - Nome do canal](URL_completa_do_YouTube)
+-->
+
+### Exercícios
+
+- ✏️ [Livro - Colaborativo](URL_DO_LIVRO)
+  - [Lista 1](URL_DA_LISTA)
+
+## Bibliografia
+
+### Bibliografia Básica
+
+1. **Reis, G. L.; Silva, V.** *Geometria analítica*. Rio de Janeiro: LTC, 1996.
+
+
+### Bibliografia Complementar
+
+
+
+---
+*Documento gerado em: 15/04/2026*
