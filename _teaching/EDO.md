@@ -64,7 +64,7 @@ Ordinárias e estudo dos critérios de convergência de séries numéricas e de 
 - [Título do Slide - Aula](URL_DO_SLIDE)
 
 **Vídeos:**
-- [Título da Aula - Canal/Professor](URL_DO_VIDEO)
+- [Título da Aula - Canal/Professor Posani](https://www.youtube.com/watch?v=RqkPSR-kYCo)
 
 <!-- 
 Para adicionar novos vídeos, use o formato:
@@ -73,8 +73,8 @@ Para adicionar novos vídeos, use o formato:
 
 ### Exercícios
 
-- ✏️ [Livro ](https://sites.icmc.usp.br/tiago/index.html/assets/herminio_ladeira2.pdf)
-  - [Lista ](file:///home/stranger/Downloads/avalia%C3%A7%C3%A3o_de_edo-2.pdf)
+- ✏️ [Notas Herminio ](https://sites.icmc.usp.br/tiago/index.html/assets/herminio_ladeira2.pdf)
+  - [Lista ](https://www.dropbox.com/home?preview=Lista6EDO-1.pdf&quickview=id%3AoRn-WCDcxsQAAAAAAAGbag)
 
 ## Bibliografia
 
