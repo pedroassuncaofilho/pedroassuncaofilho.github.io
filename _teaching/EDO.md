@@ -74,7 +74,7 @@ Para adicionar novos vídeos, use o formato:
 ### Exercícios
 
 - ✏️ [Notas Herminio ](https://sites.icmc.usp.br/tiago/index.html/assets/herminio_ladeira2.pdf)
-  - [Lista ](https://www.dropbox.com/home?preview=Lista6EDO-1.pdf&quickview=id%3AoRn-WCDcxsQAAAAAAAGbag)
+  - [Lista ]([https://www.dropbox.com/home?preview=Lista6EDO-1.pdf&quickview=id%3AoRn-WCDcxsQAAAAAAAGbag](https://www.dropbox.com/home?preview=Lista6EDO-1.pdf&quickview=id%3AoRn-WCDcxsQAAAAAAAGbag))
 
 ## Bibliografia
 
