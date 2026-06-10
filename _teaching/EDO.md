@@ -73,8 +73,8 @@ Para adicionar novos vídeos, use o formato:
 
 ### Exercícios
 
-- ✏️ [Livro - Colaborativo](URL_DO_LIVRO)
-  - [Lista 1](URL_DA_LISTA)
+- ✏️ [Livro ](https://sites.icmc.usp.br/tiago/index.html/assets/herminio_ladeira2.pdf)
+  - [Lista ](file:///home/stranger/Downloads/avalia%C3%A7%C3%A3o_de_edo-2.pdf)
 
 ## Bibliografia
 
