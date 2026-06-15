@@ -70,6 +70,7 @@ Para adicionar novos vídeos, use o formato:
 
 - ✏️ [Livro - Colaborativo](URL_DO_LIVRO)
   - [Lista 1](URL_DA_LISTA)
+  -  - [Lista 2](https://www.dropbox.com/scl/fi/xkx4hgmw1ck8nl3bkng3p/lista.pdf?rlkey=4z6vh5s5n9dif38shg7yt3dxe&st=8nbi0geu&dl=0)
 
 ## Bibliografia
 
