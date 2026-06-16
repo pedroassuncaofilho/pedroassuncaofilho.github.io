@@ -68,7 +68,7 @@ Para adicionar novos vídeos, use o formato:
 
 ### Exercícios
 
-  -  [Livro - Colaborativo](URL_DO_LIVRO)
+  -  [Livro - geometria analítica ufma](http://www.mat.ufrgs.br/~portosil/geometria-analitica-ufma.pdf)
   - [Lista 0](https://www.dropbox.com/scl/fi/8zwf8zc3e5a4am4cqnvr0/Lista1_GA__1-2b403da6c46d44beb57c5ebe41863d02.pdf?rlkey=1uklysm6ralutp5qlyzpa9cev&st=hfgtpihr&dl=0)
   - [Lista 1](https://www.dropbox.com/scl/fi/c74qj6ymw3h3c5nicb1is/Lista_GA_3_1-1-82758a3f219e4a26a996724082b98c21.pdf?rlkey=a4962qye4mrmefczmm5ua1wat&st=lq1jkahi&dl=0)
   - [Lista 2](https://www.dropbox.com/scl/fi/xkx4hgmw1ck8nl3bkng3p/lista.pdf?rlkey=4z6vh5s5n9dif38shg7yt3dxe&st=8nbi0geu&dl=0)
