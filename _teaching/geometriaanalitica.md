@@ -56,7 +56,7 @@ Estabelecer os conceitos de Geometria Analítica a fim de levar o aluno a se fam
 <!-- Adicione aqui as URLs das videoaulas do YouTube -->
 
 **Slides:**
-- [Título do Slide - Aula](URL_DO_SLIDE)
+- [Aula 1- A reta](https://www.dropbox.com/scl/fi/ihp0f6adxj48k5pzvsiiy/01_reta.pdf?rlkey=5wbuc3yqyb4ilp39dq74ync54&st=ti94d0pj&dl=0)
 
 **Vídeos:**
 - [Título da Aula - Canal/Professor](https://www.youtube.com/watch?v=Jecf1PUzcdo&list=PLxEB_CPQhRLvy8Z6VO3_j23CQZbGd7_TZ)
