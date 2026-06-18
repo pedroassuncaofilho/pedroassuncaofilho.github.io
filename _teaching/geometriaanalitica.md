@@ -30,7 +30,7 @@ Geometria Analítica Plana: Coordenadas no plano, distância entre pontos, dis
 
 ## Objetivo
 
-Estabelecer os conceitos de Geometria Analítica a fim de levar o aluno a se familiarizar com a linguagem matemática e com os métodos de construção do conhecimento matemático, bem como capacitar o aluno para a resolução de problemas relacionados à área específica de formação.
+Estabelecer os conceitos de Geometria Analítica a fim de levar o aluno a se familiarizar com a linguagem matemática geométrica e com os métodos de construção do conhecimento matemático, bem como capacitar o aluno para a resolução de problemas relacionados à área específica de formação.
 
 ## Critérios de Avaliação
 
