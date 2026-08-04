@@ -11,8 +11,8 @@ redirect_from:
 ### Office address
 
 Professor of Mathematics
-Federal Institute of Goiás, 2016 – Present ([IFG](https://www.ifg.edu.br/formosa))  
-Rua 64, esq. c/ Rua 11, s/n, Expansão Parque Lago. CEP: 73813-816. Formosa – GO. Brazil
+Federal Institute of Goiás, 2016 – Present ([IFG](https://www.ifg.edu.br/goianiaoeste))  
+ Rua RF 17, Quinhão 1, Fazenda Santa Rita, Residencial Flórida, Goiânia – GO.
 
 
 - Teach undergraduate courses for Civil Engineering,  Systems Analysis and Development and Bachelor's Degree in Biological Sciences
