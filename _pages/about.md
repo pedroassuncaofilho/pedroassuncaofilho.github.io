@@ -9,13 +9,12 @@ redirect_from:
 ---
 
 ### Office address
-
-Professor of Mathematics
-Federal Institute of Goiás, 2016 – Present ([IFG](https://www.ifg.edu.br/goianiaoeste))  
+I am currently a mathematics professor at the Federal Institute of Science and Technology of Goiás(IFG)([IFG](https://www.ifg.edu.br/goianiaoeste)), a career I began in 2016 as a Basic, Technical and Techonological Education (EBTT) teacher.
+- Professor of Mathematics Federal Institute of Goiás, 2016 – Present 
  Rua RF 17, Quinhão 1, Fazenda Santa Rita, Residencial Flórida, Goiânia – GO.
+I previously served as a substitute mathematics professor at the Federal University of Goiás from 2014 to 2016.
 
-
-- Teach undergraduate courses for Civil Engineering,  Systems Analysis and Development and Bachelor's Degree in Biological Sciences
+- Teach undergraduate courses for Civil Engineering,  Systems Analysis and Development and Bachelor's Degree in Biological Sciences IFG (Formosa/GO)
 - Teaches mathematics for high school and adult education (EJA) programs
 
 Researcher in Multobjective Optimization
