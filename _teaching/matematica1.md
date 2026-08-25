@@ -1,15 +1,15 @@
 ---
-title: "Matemática 1"
+title: "Matemática 1 para Vigilância em Saúde"
 collection: teaching
 type: " V.S 2026/2"
 permalink: /teaching/2026-teaching-23
-venue: "IFG, departamento de areas academicas"
+venue: "IFG, departamento de Áreas Academicas"
 date: 2026-08-25
 location: "Goiânia, Goiás"
 ---
 [Link moodle](https://moodle.ifg.edu.br/course/view.php?id=44011)
 
-# Matemática 1 - TADS 2025/2
+# Matemática 1 - VIGILÂNCIA EM SAÚDE 2026/2
 
 **Instituto Federal de Goiás - Campus Goiânia Oeste**
 
