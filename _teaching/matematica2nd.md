@@ -2,15 +2,15 @@
 title: "Matemática 2 para Nutrição e Dietética"
 collection: teaching
 type: " T.N.D 2026/2"
-permalink: /teaching/2026-teaching-24
+permalink: /teaching/2026-spring-teaching-24
 venue: "IFG, departamento de Áreas Academicas"
 date: 2026-08-25
-location: "Goiânia, Goiás"
+location: "Goiânia , Goiás"
 ---
-[Link moodle](https://moodle.ifg.edu.br/course/view.php?id=44011)
-# Matemática 2 - TÉCNICO EM NUTRIÇÃO E DIETÉTICA 2026/2
-**Instituto Federal de Goiás - Campus Goiânia Oeste**
----
+
+[Link moodle](https://moodle.ifg.edu.br/)
+[Link Suap](https://suap.ifg.edu.br/)
+
 ## Horários das Aulas
 | Dia | Horário | Turma |
 |-----|---------|-------|
