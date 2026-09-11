@@ -12,9 +12,12 @@ location: "Goiânia , Goiás"
 [Link Suap](https://suap.ifg.edu.br/)
 
 ## Horários das Aulas
+
 | Dia | Horário | Turma |
 |-----|---------|-------|
-| **Terça-feira** | 09:45 às 11:00 | Nutrição e Dietética (Matemática 2) - 2º Horário |
+| **Terça-feira** | 09:15 às 10:00 | Vigilância em Saúde(Matemática 1) - 2º Horário |
+| **Terça-feira** | 10:00 às 10:45 | Vigilância em Saúde(Matemática 1) - 2º Horário |
+
 ---
 ##  Ementa
 Estudo da Geometria Plana envolvendo figuras geométricas, cálculo de perímetros e áreas. Geometria Espacial de posição, sólidos geométricos, áreas de superfícies e volumes. Trigonometria no ciclo trigonométrico e estudo das funções trigonométricas. Em Álgebra, estudo de matrizes, determinantes e suas propriedades, além de sistemas lineares e métodos de resolução.
@@ -29,7 +32,11 @@ Estudo da Geometria Plana envolvendo figuras geométricas, cálculo de perímetr
 > Apresentar ao estudante os **fundamentos da Geometria, Trigonometria e Álgebra Linear** e suas **aplicações na área da saúde**, capacitando-o a construir e interpretar modelos matemáticos úteis à tomada de decisão em nutrição e dietética.
 ---
 ## Ênfase Tecnológica
-Modelos matemáticos são um fator muito importante para orientar pesquisadores e técnicos das mais diversas áreas, inclusive os Técnicos em Nutrição e Dietética. Permitem projetar diferentes cenários e analisá-los, contribuindo com elementos para a tomada de decisões sobre como equacionar problemas em saúde pública. Os estudos nesta área possibilitam, por exemplo, prever a velocidade de propagação de doenças por um território ou como podem afetar determinadas populações.
+
+Modelos matemáticos são um fator muito importante para orientar pesquisadores e técnicos das mais diversas áreas, inclusive os técnicos em nutrição e dietética. Permitem projetar diferentes cenários e 
+analisá-los, contribuindo com elementos para a tomada de decisões sobre como equacionar problemas em saúde pública. Os estudos nesta área possibilitam, por exemplo, prever a velocidade de propagação de doenças por um território ou como podem afetar determinadas populações.
+
+
 ---
 ## Área de Integração e API
 - **Área de integração:** disciplinas da área técnica.
@@ -56,6 +63,8 @@ Modelos matemáticos são um fator muito importante para orientar pesquisadores 
 ##  Aplicações Computacionais
 ---
 ## 📞 Contato
+
+
 | Informação | Detalhes |
 |------------|----------|
 | **Professor** | Pedro Filho |
@@ -63,5 +72,9 @@ Modelos matemáticos são um fator muito importante para orientar pesquisadores 
 | **Atendimento** | Terças-feiras, 16h às 18h |
 | **Local** | Sala dos Professores - IFG Goiânia Oeste |
 | **⚠️ Importante** | Atendimento com horários previamente marcados |
+
+
 ---
+
+
 > **⚠️ ATENÇÃO:** As notas de aula apresentam os principais resultados discutidos em aula, bem como demonstrações e exemplos. Apesar de servirem de apoio, **elas não substituem os livros-texto!**
