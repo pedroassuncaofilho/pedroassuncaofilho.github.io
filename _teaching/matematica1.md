@@ -52,7 +52,7 @@ Iezzi, Gelson; Degenszajn, David; Tamari, Marcio; Pasmanik, Guilherme. Identidad
 
 ###  Função Quadrática
 
-- [Função quadrática:Definição, Máximos e Mínimos - Impa/Prof.Gustavo Adolfo Soares](https://www.youtube.com/watch?v=NbFFMlXlm3o))
+- [Função quadrática:Definição, Máximos e Mínimos - Impa/Prof.Gustavo Adolfo Soares](https://www.youtube.com/watch?v=NbFFMlXlm3o)
 
 
 
