@@ -52,7 +52,7 @@ Iezzi, Gelson; Degenszajn, David; Tamari, Marcio; Pasmanik, Guilherme. Identidad
 
 ###  Função Quadrática
 
-
+- [Auto-vetor - Impa/Prof.Gustavo Adolfo Soares](https://www.youtube.com/watch?v=NbFFMlXlm3o))
 
 
 
