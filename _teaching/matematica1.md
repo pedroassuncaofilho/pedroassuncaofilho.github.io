@@ -55,8 +55,9 @@ Iezzi, Gelson; Degenszajn, David; Tamari, Marcio; Pasmanik, Guilherme. Identidad
 - [Função quadrática:Definição, Máximos e Mínimos - Impa/Prof.Gustavo Adolfo Soares](https://www.youtube.com/watch?v=NbFFMlXlm3o)
 
 
+- [Função quadrática:Resolução de Exercícios - Parte 1 - Impa/Prof.Gustavo Adolfo Soares](https://www.youtube.com/watch?v=WqsKKAbXcoo&list=PL7RjLI0hJPfDqx_Zm0gVbplDp-1jHB1z1&index=42)
 
-
+  
 ###  IMPA/OBMEP
 
 
@@ -73,7 +74,7 @@ Iezzi, Gelson; Degenszajn, David; Tamari, Marcio; Pasmanik, Guilherme. Identidad
 
 | Informação | Detalhes |
 |------------|----------|
-| **Professor** | Pedro Filho |
+| **Professor** | Pedro Bonfim A. Filho |
 | **E-mail** | pedro.filho@ifg.edu.br |
 | **Atendimento** | Terças-feiras, 16h às 18h |
 | **Local** | Sala dos Professores - IFG Goiânia Oeste |
