@@ -68,6 +68,8 @@ analisá-los, contribuindo com elementos para a tomada de decisões sobre como e
 
 ###  Trigonometria e Matrizes
 
+### Listas de Exercícios
+
 ---
 ##  Aplicações Computacionais
 ---
