@@ -15,8 +15,8 @@ location: "Goiânia , Goiás"
 
 | Dia | Horário | Turma |
 |-----|---------|-------|
-| **Terça-feira** | 09:15 às 10:00 | Vigilância em Saúde(Matemática 1) - 2º Horário |
-| **Terça-feira** | 10:00 às 10:45 | Vigilância em Saúde(Matemática 1) - 2º Horário |
+| **Terça-feira** | 11:00 às 11:45 | Nutrição e Dietética(Matemática 2) - 5º Horário |
+| **Terça-feira** | 11:45 às 12:30 | Nutrição e Dietética(Matemática 2) - 6º Horário |
 
 ---
 ##  Ementa
