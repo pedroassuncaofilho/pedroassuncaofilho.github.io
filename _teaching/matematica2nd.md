@@ -58,6 +58,7 @@ analisá-los, contribuindo com elementos para a tomada de decisões sobre como e
 ---
 ##  Vídeo-aulas
 ###  Geometria Espacial
+- Vinicius(https://www.youtube.com/watch?v=190k8dHJXyI&t=10s).
 ###  Trigonometria e Matrizes
 ---
 ##  Aplicações Computacionais
