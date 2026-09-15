@@ -57,12 +57,17 @@ analisá-los, contribuindo com elementos para a tomada de decisões sobre como e
 - Iezzi, Gelson; Murakami, Carlos. **Fundamentos de Matemática Elementar: Conjuntos e Funções**. 8ª edição. São Paulo: Atual, 2013. v. 4.
 ---
 ##  Vídeo-aulas
+
+### Estatística Descritiva
+- [Estatíscica- Impa/ Prof.: Flávia Landim](https://www.youtube.com/watch?v=wmrVbJq0Tus).
+
 ###  Geometria Espacial
 
-- - [Sólidos de Platão - Impa/ Vinícius](https://www.youtube.com/watch?v=190k8dHJXyI&t=10s)
+- [Sólidos de Platão - Impa/ Vinícius](https://www.youtube.com/watch?v=190k8dHJXyI&t=10s)
 
 
 ###  Trigonometria e Matrizes
+
 ---
 ##  Aplicações Computacionais
 ---
