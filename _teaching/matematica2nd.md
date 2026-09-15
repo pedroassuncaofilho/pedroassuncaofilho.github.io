@@ -56,10 +56,15 @@ analisá-los, contribuindo com elementos para a tomada de decisões sobre como e
 - Iezzi, Gelson. **Fundamentos de Matemática Elementar: Trigonometria**. 9ª edição. São Paulo: Atual, 2013. v. 3.
 - Iezzi, Gelson; Murakami, Carlos. **Fundamentos de Matemática Elementar: Conjuntos e Funções**. 8ª edição. São Paulo: Atual, 2013. v. 4.
 ---
+## Slides 
+### Aulas de Estatítica
+
+- [Estatística Descritiva - IFG/ Prof.: Pedro Bonfim](https://www.dropbox.com/scl/fi/z0q97ofy98p8ko0mpfb2v/aula-te-rica-1.pdf?rlkey=k28ojd5fsm3h8e64t39i0luon&st=28zl09mq&dl=0).
+
 ##  Vídeo-aulas
 
 ### Estatística Descritiva
-- [Estatíscica- Impa/ Prof.: Flávia Landim](https://www.youtube.com/watch?v=wmrVbJq0Tus).
+- [Estatística- Impa/ Prof.: Flávia Landim](https://www.youtube.com/watch?v=wmrVbJq0Tus).
 
 ###  Geometria Espacial
 
